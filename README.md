@@ -31,11 +31,11 @@
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=badr-bourki&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=badr-bourki&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=badr-bourki&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=badr-bourki&theme=dark&hide_border=true" />
 </p>
 
 <hr/>
