@@ -1,6 +1,6 @@
 # badr-bourki
 <p align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjlsYzRyd2FvdHcyNjAxYnUxNm5jdXBqbG83cHB6dWp5NXllbXlrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Badr Bourki</h1>
